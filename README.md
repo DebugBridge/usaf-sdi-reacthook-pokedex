@@ -32,14 +32,17 @@ Use the following user stories to guide your development:
     [X]  additional info
     [X]  with pannel that defaults to show abilities{
         =>click enviorment to change abilities pannel to enviorment pannel
+        **nav to relative path
       }
 
     }
 
   }
 
-  //about {
+  [X]//about {
     info about pokedexd dev team
     }
-
+    (require more info about us.)
 }
+
+
